@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<g transform="translate(256 256)">
+  <!-- Calculator body -->
+  <rect x="-140" y="-180" width="280" height="360" rx="30" fill="#2a2150" stroke="#c79a54" stroke-width="6"/>
+  <rect x="-128" y="-168" width="256" height="336" rx="22" fill="none" stroke="#c79a54" stroke-width="1.6" stroke-opacity="0.45"/>
+  <!-- Display -->
+  <rect x="-108" y="-148" width="216" height="76" rx="12" fill="#1a1433" stroke="#c79a54" stroke-width="2" stroke-opacity="0.6"/>
+  <text x="88" y="-92" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="56" font-weight="500" fill="#c79a54">12</text>
+  <!-- Keypad: 3 cols x 4 rows of round keys -->
+  <g fill="#c79a54">
+    <circle cx="-70" cy="-24" r="20"/><circle cx="0"   cy="-24" r="20"/><circle cx="70" cy="-24" r="20"/>
+    <circle cx="-70" cy="34"  r="20"/><circle cx="0"   cy="34"  r="20"/><circle cx="70" cy="34"  r="20"/>
+    <circle cx="-70" cy="92"  r="20"/><circle cx="0"   cy="92"  r="20"/><circle cx="70" cy="92"  r="20"/>
+    <circle cx="-70" cy="150" r="20"/><circle cx="0"   cy="150" r="20"/><circle cx="70" cy="150" r="20"/>
+  </g>
+</g>
+</svg>
